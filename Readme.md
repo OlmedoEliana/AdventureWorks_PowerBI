@@ -48,9 +48,13 @@ Construir un **dashboard interactivo en Power BI** que permita analizar el rendi
 ## 📸 Capturas del Dashboard
 
 <p align="center">
-  <img src="img/dashboard0_AWC.png" alt="Dashboard global" width="300"/>
-  <img src="img/dashboard1_AWC.png" alt="Dashboard detalle" width="300"/>
-  <img src="img/dashboard2_AWC.png" alt="Dashboard adicional" width="300"/>
+  <img src="img/dashboard0_AWC.png" alt="Dashboard global"/>
+</p>
+<p align="center">
+  <img src="img/dashboard1_AWC.png" alt="Dashboard detalle"/>
+</p>
+<p align="center">
+  <img src="img/dashboard2_AWC.png" alt="Dashboard adicional"/>
 </p>
 
 
